@@ -24,6 +24,7 @@ class School
     @name = name
     @roster = {}
   end
+attr_accessor :roster
 
   # def roster
   #   @roster
